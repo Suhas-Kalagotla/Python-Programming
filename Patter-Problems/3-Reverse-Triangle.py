@@ -3,6 +3,12 @@
 '''
 Python programm to make the following pattern
 
+* * * * * 
+* * * * 
+* * * 
+* * 
+* 
+
 '''
 
 num = int(input('Enter the size of the Triangle: \n'))
