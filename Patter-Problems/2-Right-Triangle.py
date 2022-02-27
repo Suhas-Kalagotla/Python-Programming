@@ -3,11 +3,11 @@
 '''
 program to make the following right triangle pattern
 
-*
-**
-***
-****
-*****
+        * 
+      * * 
+    * * * 
+  * * * * 
+* * * * * 
 
 here the no.of rows of the trianle is taken as input from the user
 
