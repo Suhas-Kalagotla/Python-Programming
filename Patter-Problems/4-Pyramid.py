@@ -1,5 +1,16 @@
 #!/usr/bin/env python3
+'''
+Pattern to produce following pattern
 
+       
+      *
+     * *
+    * * *
+   * * * *
+  * * * * *
+ * * * * * *
+
+'''
 num = int(input('Enter the size of the pyramid: '))
 
 for r in range(num):
