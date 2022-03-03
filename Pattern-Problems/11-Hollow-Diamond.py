@@ -2,6 +2,16 @@
 
 '''
 Python programme to generate the following pattern
+    *
+   * *
+  *   *
+ *     *
+*       *
+*       *
+ *     *
+  *   *
+   * *
+    * 
 '''
 
 num = int(input('Enter the size of the diamond: '))
