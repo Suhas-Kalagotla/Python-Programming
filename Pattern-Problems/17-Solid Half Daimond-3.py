@@ -11,7 +11,7 @@ here input is given as 3
 * 1 *
 *
 this pattern is similar to the 14 pattern but this pattern also has a decreasing
-lower triangle , making it as a half daimond and stars are additional at star and end
+lower triangle , making it as a half daimo nd and stars are additional at star and end
 of row
 '''
 
