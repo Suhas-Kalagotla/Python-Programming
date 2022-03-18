@@ -4,6 +4,16 @@
 Programme to make the following kind of pattern
 here the input is given as 5
 
+***** *****
+****   ****
+***     ***
+**       **
+*         *
+*         *
+**       **
+***     ***
+****   ****
+***** *****
 '''
 
 num = int(input('Enter the size of the Diamond: '))
