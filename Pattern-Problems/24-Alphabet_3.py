@@ -3,12 +3,14 @@
 '''
 python code to make the following kind of alphabet pattern
 
+in this pattern character changes only in new row 
+
 sample input:
 Enter the size of the square:
 5
 
 sample output:
-A A A A A 
+A A A A A
 B B B B B
 C C C C C
 D D D D D
