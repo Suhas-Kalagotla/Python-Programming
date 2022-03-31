@@ -8,6 +8,11 @@ Enter the size of the square:
 5
 
 sample output:
+A B C D E
+A B C D E
+A B C D E
+A B C D E
+A B C D E
 
 '''
 
