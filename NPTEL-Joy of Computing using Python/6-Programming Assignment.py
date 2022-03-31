@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
 
 '''
-You are given a list L. Write a function all_even that accepts the list L and print all the even numbers is the list L.(Order of the numbers should be same as the order present in the list)
+You are given a list L. Write a function all_even that accepts the list L
+and print all the even numbers is the list L.
+(Order of the numbers should be same as the order present in the list)
 
 We will take care of the input.
 
@@ -22,4 +24,4 @@ def all_even(L) :
         if num % 2 == 0 :
             print(num)
 
-all_even(L) # given line of code 
+all_even(L) # given line of code
