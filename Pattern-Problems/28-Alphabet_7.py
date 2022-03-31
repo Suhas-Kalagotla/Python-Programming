@@ -2,6 +2,8 @@
 
 '''
 python programme to make the following pattern
+the code is almost same as the hollow triangle except we have
+built in function called chr() to print alphabets
 
 sample input:
 Enter the size of the triangle: 6
