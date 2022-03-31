@@ -3,6 +3,8 @@
 '''
 programme to produce following type of pattern
 
+in this pattern every character will change 
+
 sammple output:
 A B C D E
 F G H I J
