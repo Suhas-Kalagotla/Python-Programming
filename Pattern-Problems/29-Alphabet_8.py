@@ -7,6 +7,11 @@ sample input:
 5
 
 sample output:
+     A
+    ABC
+   ABCDE
+  ABCDEFG
+ ABCDEFGHI
 '''
 
 size = int(input())
