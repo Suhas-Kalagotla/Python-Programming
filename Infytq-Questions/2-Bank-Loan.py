@@ -80,16 +80,17 @@ loan_type = input('Enter loan type: ')
 loan_amount_expected = int(input('Enter loan amount expected: '))
 customer_emi_expected = int(input('''Enter emi's expected: '''))
 
-"""
-we validate users input i.e. account number , account balance and salary
-we have two different validations this is the first validation , we are using
-two different because if the values validated  here are correct then we produce
-to second validation to check the necessary branching conditions
 
-this validation calls the second validation if everything is correct i.e. branching validations
-"""
 
 def validations_input(ac_no,salary,ac_ba,loan_type,loan_amount_expected,customer_emi_expected) :
+    """
+    we validate users input i.e. account number , account balance and salary
+    we have two different validations this is the first validation , we are using
+    two different because if the values validated  here are correct then we produce
+    to second validation to check the necessary branching conditions
+
+    this validation calls the second validation if everything is correct i.e. branching validations
+    """
     if ac_no < 1000 or str(ac_no)[:1] != '1' :
         return 'Invalid account number'
     elif  ac_ba < 100000 :
